@@ -20,8 +20,14 @@
 ## 📊 Key Insights & Analysis
 จากการวิเคราะห์เชิงลึก พบประเด็นสำคัญดังนี้:
 - **High-Risk Profiles:** ผู้กระทำมักเป็นเพศชายช่วงอายุ 38–40 ปี ขณะที่ผู้ถูกกระทำส่วนใหญ่เป็นผู้หญิงและเด็ก (อายุเฉลี่ย 13 ปี)
+  <img width="2380" height="981" alt="ข้อที่1" src="https://github.com/user-attachments/assets/48463c0b-213c-49ce-86ce-d1e0a1a02b07" />
+
 - **Trigger Factors:** สุราและยาเสพติดเป็นปัจจัยกระตุ้นหลักที่ทำให้สถานการณ์ทวีความรุนแรง
+  <img width="1118" height="695" alt="ข้อที่2" src="https://github.com/user-attachments/assets/39a2a554-dea1-41bb-bee1-4712d483bc9c" />
+
 - **Early Warning Signs:** ความเครียดจากปัญหาเศรษฐกิจรวมกับการใช้สารเสพติด เป็นจุดที่หน่วยงานควรเข้าแทรกแซง (Intervene) ทันที
+  <img width="1336" height="881" alt="ข้อที่3" src="https://github.com/user-attachments/assets/9f6d018e-b750-41ee-a6fb-c99f7911e3f8" />
+
 
 ## 🚀 How to Run
 1. Clone repository นี้
